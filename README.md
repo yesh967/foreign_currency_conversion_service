@@ -15,12 +15,13 @@ be granular, more robust and improve code readability.
 # Requirements
 For building and running the application you need:
 
-JDK 1.8, 
-Maven,  
-IDE for example like intellij or ecllipse, 
-embedded h2 database, 
-postman 
-vs code
+•	JDK 1.8
+•	Maven 
+•	IDE for example like intellij or ecllipse
+•	embedded h2 database
+•	postman  
+•	vs code
+
 
 
 # Running the application locally
@@ -35,7 +36,7 @@ Microservice hierarchy for running these applications is • eureka server to re
 
 # Future scope
 Existance of multiple variation for exchange and transaction exists.
-Its an application focused towards learning and understand but can be 
+Its an application focused towards learning and understanding react and microservices but can be 
 incorporated with other forms of legal transactional currencies like cryptocurrency.
 
 
